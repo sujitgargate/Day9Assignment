@@ -163,3 +163,10 @@ totalSalary=$(($totalEmpHrs * $empRatePerHour))
 
 
 ## End of calculate Employee 20 days wage ##
+
+
+## Limiting to the Employee workings days and workign hours
+
+
+
+## End of Limiting to the Employee workings days and workign hours
